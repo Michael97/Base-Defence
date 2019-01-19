@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopDownZombieSurvival", "TopDownZombieSurvival.csproj", "{E6D405C8-144A-9C5C-0DAE-D0156C6D7BDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopDownZombieSurvival.Editor", "TopDownZombieSurvival.Editor.csproj", "{EA2CE93D-268E-BC34-D733-EC9082DB5F6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6D405C8-144A-9C5C-0DAE-D0156C6D7BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D405C8-144A-9C5C-0DAE-D0156C6D7BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D405C8-144A-9C5C-0DAE-D0156C6D7BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D405C8-144A-9C5C-0DAE-D0156C6D7BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA2CE93D-268E-BC34-D733-EC9082DB5F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2CE93D-268E-BC34-D733-EC9082DB5F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2CE93D-268E-BC34-D733-EC9082DB5F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2CE93D-268E-BC34-D733-EC9082DB5F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
